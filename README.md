@@ -44,4 +44,4 @@ this project was built in: `.NET`, `PostgreSQL`
 ---
 
 ## License
-*<a href="url"><img src="https://www.apsl.net/media/apslweb/images/postgresql-logo.width-900.png" align="middle" width="100" height="60"></a>`CRUD-nodejs_postgresql` is open source and therefore free to download and use without permission.*
+*<a href="url"><img src="https://www.apsl.net/media/apslweb/images/postgresql-logo.width-900.png" align="middle" width="100" height="60"></a>`Test-API-Csharp` is open source and therefore free to download and use without permission.*
